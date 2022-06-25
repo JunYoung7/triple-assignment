@@ -1,7 +1,7 @@
 ## 프로젝트 preview
 
 <p align "center">
-<img src="https://user-images.githubusercontent.com/61405355/175761924-4af8630e-7fa0-4694-a99c-d8d6544cb6f3.mp4">
+<img src=https://user-images.githubusercontent.com/61405355/175761924-4af8630e-7fa0-4694-a99c-d8d6544cb6f3.mp4>
 </p>
 ---
 
