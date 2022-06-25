@@ -3,6 +3,7 @@ import styled from 'styled-components'
 /**
  * NumCounterText(num(700), unit(만 명), type(의 여행자))
  * 숫자 증가 애니메이션이 적용될 text component
+ * delay 0.2s
  */
 
 interface Props {
