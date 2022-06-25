@@ -6,7 +6,7 @@ import FadeInBox from '../shared/FadeInUpBox/FadeInUpBox'
 /**
  * TextWithBackgroundImage(이미지 소스, children)
  * 배경 이미지가 있는 텍스트 컴포넌트
- * delay 0
+ * delay 0s
  */
 
 interface Props {

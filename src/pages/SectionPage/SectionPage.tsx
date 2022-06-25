@@ -6,7 +6,7 @@ import useNumCount from '../../hooks/useNumCount'
 import s from './SectionPageStyled'
 
 import TextWithBackgroundImage from 'components/TextWithBackgroundImage/TextWithBackgroundImage'
-import TextWithImage from 'components/TextWithImageItem/TextWithImage'
+import TextWithImage from 'components/TextWithImage/TextWithImage'
 import NumCounterText from 'components/NumCounterText/NumCounterText'
 import FadeInUpBox from 'components/shared/FadeInUpBox/FadeInUpBox'
 
