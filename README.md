@@ -1,8 +1,7 @@
 ## 프로젝트 preview
 
-<p align "center">
-<img src=https://user-images.githubusercontent.com/61405355/175761924-4af8630e-7fa0-4694-a99c-d8d6544cb6f3.mp4>
-</p>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/61405355/175762018-2b381d30-42b5-49f2-9e0f-c06906ea31bd.gif)
+
 ---
 
 ## 프로젝트 실행 방법
@@ -28,4 +27,5 @@ npm run storybook
 ```
 ---
 
+## 사용한 기술과 선택한 이유
 
